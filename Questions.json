@@ -1,0 +1,158 @@
+{
+  "easy": [
+    {
+      "question": "What is 5 + 3?",
+      "options": ["6", "7", "8", "9"],
+      "answer": "8"
+    },
+    {
+      "question": "What color is the sky on a clear day?",
+      "options": ["Green", "Blue", "Red", "Yellow"],
+      "answer": "Blue"
+    },
+    {
+      "question": "How many days are in a week?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "Which animal says 'meow'?",
+      "options": ["Dog", "Cat", "Cow", "Bird"],
+      "answer": "Cat"
+    },
+    {
+      "question": "What is the capital of France?",
+      "options": ["Berlin", "Madrid", "Paris", "Rome"],
+      "answer": "Paris"
+    },
+    {
+      "question": "How many sides does a triangle have?",
+      "options": ["2", "3", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "question": "What is 10 x 2?",
+      "options": ["12", "15", "20", "25"],
+      "answer": "20"
+    },
+    {
+      "question": "Which planet do we live on?",
+      "options": ["Mars", "Venus", "Earth", "Jupiter"],
+      "answer": "Earth"
+    },
+    {
+      "question": "What comes after Monday?",
+      "options": ["Sunday", "Wednesday", "Tuesday", "Friday"],
+      "answer": "Tuesday"
+    },
+    {
+      "question": "How many months are in a year?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    }
+  ],
+  "medium": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["WA", "H2O", "HO2", "W2O"],
+      "answer": "H2O"
+    },
+    {
+      "question": "Who wrote 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "What is the square root of 144?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12"
+    },
+    {
+      "question": "Which continent is the largest by area?",
+      "options": ["Africa", "North America", "Asia", "Europe"],
+      "answer": "Asia"
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Carbon Dioxide"
+    },
+    {
+      "question": "In which year did World War II end?",
+      "options": ["1943", "1944", "1945", "1946"],
+      "answer": "1945"
+    },
+    {
+      "question": "What is the speed of light (approx)?",
+      "options": ["300,000 km/s", "150,000 km/s", "500,000 km/s", "1,000,000 km/s"],
+      "answer": "300,000 km/s"
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"],
+      "answer": "Hydrogen"
+    },
+    {
+      "question": "How many bones are in the adult human body?",
+      "options": ["186", "196", "206", "216"],
+      "answer": "206"
+    },
+    {
+      "question": "What is Python primarily used for?",
+      "options": ["Web design only", "Programming", "Gaming only", "Graphic design"],
+      "answer": "Programming"
+    }
+  ],
+  "hard": [
+    {
+      "question": "What is the time complexity of binary search?",
+      "options": ["O(n)", "O(n²)", "O(log n)", "O(n log n)"],
+      "answer": "O(log n)"
+    },
+    {
+      "question": "Which sorting algorithm has the best average case?",
+      "options": ["Bubble Sort", "Insertion Sort", "Quick Sort", "Selection Sort"],
+      "answer": "Quick Sort"
+    },
+    {
+      "question": "What does 'pytest' primarily do in Python?",
+      "options": ["Formats code", "Tests code", "Compiles code", "Runs GUI"],
+      "answer": "Tests code"
+    },
+    {
+      "question": "What is the Fibonacci sequence formula?",
+      "options": ["F(n) = F(n-1) + F(n-2)", "F(n) = F(n) x 2", "F(n) = n!", "F(n) = F(n-1) x F(n-2)"],
+      "answer": "F(n) = F(n-1) + F(n-2)"
+    },
+    {
+      "question": "What is a decorator in Python?",
+      "options": ["A type of loop", "A function modifier", "A class method", "A data type"],
+      "answer": "A function modifier"
+    },
+    {
+      "question": "Which HTTP method is used to update a resource?",
+      "options": ["GET", "POST", "PUT", "DELETE"],
+      "answer": "PUT"
+    },
+    {
+      "question": "What does SQL stand for?",
+      "options": ["Simple Query Language", "Structured Query Language", "Standard Query Logic", "System Query List"],
+      "answer": "Structured Query Language"
+    },
+    {
+      "question": "In Git, what does 'git rebase' do?",
+      "options": ["Deletes branches", "Rewrites commit history", "Clones repo", "Merges files"],
+      "answer": "Rewrites commit history"
+    },
+    {
+      "question": "Which data structure uses LIFO?",
+      "options": ["Queue", "Linked List", "Stack", "Tree"],
+      "answer": "Stack"
+    },
+    {
+      "question": "What is a lambda function in Python?",
+      "options": ["A named class method", "A loop structure", "An anonymous function", "A module"],
+      "answer": "An anonymous function"
+    }
+  ]
+}
