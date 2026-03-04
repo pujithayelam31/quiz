@@ -2,7 +2,7 @@ import json
 import os
 import random
 
-QUESTIONS_FILE = os.path.join(os.path.dirname(__file__), "questions.json")
+QUESTIONS_FILE = os.path.join(os.path.abspath(os.path.dirname(__file__)), "questions.json")
 
 def load_questions(difficulty: str) -> list[dict]:
     """Load questions from JSON file for given difficulty."""
