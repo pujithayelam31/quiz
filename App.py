@@ -111,8 +111,8 @@ class QuizApp(tk.Tk):
                  font=self.f_sub, bg=BG, fg=SUBTEXT).pack(pady=(0, 40))
 
         # ── Difficulty selector label
-        tk.Label(center, text="SELECT DIFFICULTY", font=self.f_label,
-                 bg=BG, fg=SUBTEXT, letter_spacing=4).pack(pady=(0, 12))
+        tk.Label(center, text="S E L E C T   D I F F I C U L T Y", font=self.f_label,
+                 bg=BG, fg=SUBTEXT).pack(pady=(0, 12))
 
         # ── Difficulty cards row
         diff_row = tk.Frame(center, bg=BG)
